@@ -1,6 +1,3 @@
-Aqui está o arquivo **README.md** completo e sem cortes. Pode copiar e colar inteiramente no seu arquivo.
-
-```markdown
 # 📺 Catálogo de TVs (App)
 
 > Projeto desenvolvido em 2022 como estudo de interfaces mobile e navegação.
@@ -35,8 +32,7 @@ Como este projeto utiliza uma versão do Expo de 2022 (SDK 44), siga estes passo
    ```bash
    git clone [https://github.com/victorrgoms/catalogo-tvs.git](https://github.com/victorrgoms/catalogo-tvs.git)
    cd catalogo-tvs
-
-```
+    ```
 
 2. **Instale as dependências:**
 ⚠️ **Importante:** Use a flag `--legacy-peer-deps` para resolver conflitos de versões antigas.
@@ -89,5 +85,3 @@ src/
 ---
 
 Feito por [Victor Gomes](https://www.google.com/search?q=https://github.com/victorrgoms)
-
-```
